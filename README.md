@@ -34,23 +34,34 @@ I am continuously expanding my technical, analytical, and business skills while 
 
 `Python` • `SQL`
 
-### Core Expertise
+## 🛠️ Technologies & Skills
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Analytics
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Software Engineering
-- Business Analysis
-- Product Analysis
-- Business Strategy
-- Problem Solving
-- Analytical Thinking
-- AI-Driven Decision Making
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**AI & Data**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat-square)
+
+**Business & Product**
+
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-1565C0?style=flat-square)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-00897B?style=flat-square)
+![Business Strategy](https://img.shields.io/badge/Business%20Strategy-3949AB?style=flat-square)
+
+**Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ---
 
 # 🏆 Highlights
