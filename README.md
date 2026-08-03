@@ -74,14 +74,21 @@ I am continuously expanding my technical, analytical, and business skills while 
 ---
 
 
+---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=miruthu0304-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=miruthu0304-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miruthu0304-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miruthu0304-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=miruthu0304-svg&theme=tokyonight&hide_border=true"/>
 
 </div>
 
