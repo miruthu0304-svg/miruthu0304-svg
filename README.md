@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8216a729-4aa3-497c-a6f4-40c767238807" />
 <div align="center">
 
 # Hi, I'm S.K. Miruthula 👋
